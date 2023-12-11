@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "666341807162",
+    "firebase_url": "https://hygrownft-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "hygrownft",
+    "storage_bucket": "hygrownft.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:666341807162:android:09e10c2ae583bca37a5103",
+        "android_client_info": {
+          "package_name": "com.hygrownft.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAEHDcehHriUMDuRt94FS7EtYUX1s4b11E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

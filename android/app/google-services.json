@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "357109469834",
+    "firebase_url": "https://hygrowgh-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "hygrowgh",
+    "storage_bucket": "hygrowgh.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:357109469834:android:852f79589c6cabf0ab5373",
+        "android_client_info": {
+          "package_name": "com.hygrowgh"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "357109469834-m83merbtlvrsk1sn54lj3l59fhu1a6eb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAM6STR3skHjK4I1CMM2H4LYnWh3TyvkGY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "357109469834-m83merbtlvrsk1sn54lj3l59fhu1a6eb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
